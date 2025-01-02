@@ -37,7 +37,7 @@
   - 버튼 입력으로 `1`(활성화), `0`(비활성화) 신호 전송  
   - LED를 통해 신호 전송 상태 표시  
 
-![송신부 구성](images/sender.jpg)
+<img src="images/sender.jpg" alt="송신부 구성" width="300"/>
 
 ---
 
@@ -53,12 +53,13 @@
   - 초음파 센서로 좌석 점유 상태 감지  
   - 신호 및 점유 상태에 따라 장치를 제어  
 
-![수신부 구성](images/receiver.jpg)
+<img src="images/receiver.jpg" alt="수신부 구성" width="300"/>
 
 ---
 
 ## ⚙️ 시스템 블록도
-![시스템 구조](assets/system_block_diagram.jpg)
+![image01](https://github.com/user-attachments/assets/1dbe3768-372c-499d-b57d-593cf6899eb0)
+
 
 ---
 
