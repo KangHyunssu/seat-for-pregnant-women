@@ -28,7 +28,7 @@
   - NRF24L01 모듈
   - LED
   - AMS1117 3.3V 레귤레이터
-    <img src="./images/sender.jpg" alt="송신부 구성" style="width:400px;"/>
+  <img src="./images/sender.jpg" alt="송신부 구성" style="width:400px;"/>
     
 - **기능**:
   - 버튼 입력을 통해 RF 통신으로 수신부에 `1`(활성화), `0`(비활성화) 신호를 전송합니다.
