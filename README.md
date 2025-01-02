@@ -28,7 +28,8 @@
   - NRF24L01 모듈
   - LED
   - AMS1117 3.3V 레귤레이터
-    ![image](https://github.com/user-attachments/assets/52dd2c46-1068-4fa0-95c2-e70d50cfecca)
+    <img src="![image](https://github.com/user-attachments/assets/f424c9a5-3a2d-43e9-b7c8-753070afefe3)
+" alt="송신부 구성" width="500"/>
     
 - **기능**:
   - 버튼 입력을 통해 RF 통신으로 수신부에 `1`(활성화), `0`(비활성화) 신호를 전송합니다.
@@ -40,7 +41,8 @@
   - 초음파 센서
   - LED, 부저, 진동 모터
   - AMS1117 3.3V 레귤레이터
-    ![image](https://github.com/user-attachments/assets/6a16c9f4-8d5b-4239-9680-76628ae063d0)
+    <img src="![image](https://github.com/user-attachments/assets/1798e182-baeb-4724-a072-efdd0d34630e)
+" alt="수신부 구성" width="500"/>
 
 - **기능**:
   - RF 신호를 수신하여 좌석 상태를 관리합니다.
